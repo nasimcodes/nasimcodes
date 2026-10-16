@@ -1,31 +1,31 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=160&section=header&text=Welcome%20to%20my%20Terminal&fontSize=30&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=150&section=header&text=nasimcodes@terminal&fontSize=28&animation=twinkling" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%90%8B%2C+I'm+Md+Nasim+Babu;CSE+Student+%40PSTU;Web+Developer+%26+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FF66&center=true&vCenter=true&width=480&lines=System.init();+Hello+World!;I+am+Md+Nasim+Babu;CSE+Student+%40+PSTU" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🖥 Terminal Profile & Info
+### 💻 System & Profile Info
 
-<table align="center" style="background-color: #0d1117; border-radius: 10px; padding: 10px;">
+<table align="center" style="background-color: #0d1117;">
   <tr>
-    <td align="center" style="padding-right: 20px;">
-      <img src="https://github.com/nasimcodes.png" width="130px" style="border-radius: 50%; box-shadow: 0px 0px 15px #36BCF7;" />
-      <br>
-      <sub><b>👨‍💻 nasimcodes</b></sub>
+    <td align="center" style="padding: 15px;">
+      <img src="https://github.com/nasimcodes.png" width="120px" style="border-radius: 50%; border: 2px solid #00FF66; box-shadow: 0 0 10px #00FF66;" />
+      <br><br>
+      <sub><b>🟢 Online & Coding</b></sub>
     </td>
     <td>
-      <pre style="color: #36BCF7; font-family: monospace;">
-SYSTEM.INFO : nasimcodes@github
-----------------------------------
-Subject     : CSE Student
-Role        : Web Developer
-Origin      : Bangladesh
-Status      : Active & Learning
-Tech_Chain  : C, C++, Python, JS
+      <pre style="color: #00FF66; font-family: monospace; font-size: 13px;">
+<b>SYSTEM.INFO:</b>
+-----------------------------------
+<b>Subject   :</b> CSE Student
+<b>Role      :</b> Web Developer
+<b>Language  :</b> C, C++, Python, JS
+<b>OS        :</b> Kali Linux / Windows
+<b>Focus     :</b> Problem Solving & Web
       </pre>
     </td>
   </tr>
@@ -55,13 +55,13 @@ Tech_Chain  : C, C++, Python, JS
 ### 📈 GitHub Stats & Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nasimcodes&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nasimcodes&show_icons=true&theme=vue-dark" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nasimcodes&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nasimcodes&theme=vue-dark" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasimcodes&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasimcodes&layout=compact&theme=vue-dark" alt="Top Languages" />
 </p>
