@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=180&section=header&text=Welcome%20to%20my%20Profile&fontSize=35&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=160&section=header&text=Welcome%20to%20my%20Terminal&fontSize=30&animation=twinkling" />
 </p>
 
 <p align="center">
@@ -8,15 +8,34 @@
 
 ---
 
-### 💻 About Me
-* 🌱 I’m currently studying Computer Science and Engineering (CSE) at PSTU.
-* ⚡ Passionate about web development, problem-solving, and exploring new technologies.
+### 🖥 Terminal Profile & Info
+
+<table align="center" style="background-color: #0d1117; border-radius: 10px; padding: 10px;">
+  <tr>
+    <td align="center" style="padding-right: 20px;">
+      <img src="https://github.com/nasimcodes.png" width="130px" style="border-radius: 50%; box-shadow: 0px 0px 15px #36BCF7;" />
+      <br>
+      <sub><b>👨‍💻 nasimcodes</b></sub>
+    </td>
+    <td>
+      <pre style="color: #36BCF7; font-family: monospace;">
+SYSTEM.INFO : nasimcodes@github
+----------------------------------
+Subject     : CSE Student
+Role        : Web Developer
+Origin      : Bangladesh
+Status      : Active & Learning
+Tech_Chain  : C, C++, Python, JS
+      </pre>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🛠 Tech Stack & Tools
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
